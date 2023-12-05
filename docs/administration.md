@@ -348,7 +348,7 @@ access to all projects.
 > **Note**: You will be able to modify these elements (except the
 > project name) in the Settings section of your project.
 
-**Next step**: [Create an environment](../environment/createEnvironment) in this project.
+**Next step**: Create an environment in this project.
 
 (manage-project)=
 
@@ -464,7 +464,7 @@ SDK.
    It should look like `https://brisk-hawk-charcoal-zeta-42.mlops-platform.craft.ai`.
 
    If you don’t have any environments in your project yet, you should
-   [Create an environment](./../environment/createEnvironment).
+   [Create an environment](./).
 
 2. Enter your personal `CRAFT_AI_SDK_TOKEN`, you can find it in "Parameters" on the platform web UI.
 
