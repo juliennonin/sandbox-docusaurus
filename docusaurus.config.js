@@ -11,6 +11,9 @@ const projectName = "docusaurus-craft-ai";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  organizationName,
+  projectName,
+  trailingSlash: false,
   title: 'Craft AI MLOps Platform',
   tagline: 'Documentation web site',
   favicon: 'img/favicon.ico',
@@ -23,8 +26,6 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
